@@ -10,23 +10,25 @@
 
 【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
 
-【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)
+~~【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)~~
 
 ## 北京大学
 
 ~~【报名截止】[北京大学信息科学技术学院关于举办2019年信息学科优秀大学生夏令营的通知](http://eecs.pku.edu.cn/info/1060/8951.htm)~~
 
-【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)
+~~【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)~~
 
 【6.22截止】[北京大学信息工程学院关于举办 “2019年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2019/anotice_0529/2236.html)
 
 ## 复旦大学
 【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=26873)
 
-【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)
+~~【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)~~
 
 ## 同济大学
 [同济大学2019年优秀学生暑期学校活动通知（陆续更新中）](http://yz.tongji.edu.cn/info/1010/1476.htm)
+
+~~【6.11截至】[2019 年同济大学电子与信息工程学院全国优秀大学生暑期学校公告](http://yz.tongji.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1507290913&wbfileid=3662374)~~
 
 ## 东南大学
 【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
@@ -36,7 +38,7 @@
 
 ~~【报名截止】[软件所招收2019/2020年秋季入学研究生说明](http://moon.nju.edu.cn/recruit/)~~
 
-【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)
+~~【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)~~
 
 【6.15截止】[2019年南京大学软件学院全国优秀大学生夏令营报名通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)
 
@@ -65,7 +67,7 @@
 
 【6.15截止】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)
 
-【6.10截止】[第五届高可信软件工程优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019032220159046143733)
+~~【6.10截止】[第五届高可信软件工程优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019032220159046143733)~~
 
 ## 香港中文大学
 ~~【报名截止】[2019年香港中文大学（深圳）数据科学博士夏令营](http://idda.cuhk.edu.cn/zh-hans/content/9835)~~
@@ -101,7 +103,7 @@
 【6.30截止】[上海交通大学密西根学院夏令营](umji.sjtu.edu.cn/cn/news/2019-0507-0932/)
 
 ## 中山大学
-【6.10截止】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
+~~【6.10截止】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)~~
 
 ## 哈尔滨工业大学
 【6.24截止】[2020年优秀硕士生源选拔（含直博生）暑期夏令营招募通知](http://yzb.hit.edu.cn/2019/0524/c8822a224945/page.htm)
@@ -151,3 +153,4 @@
 ## 西北工业大学
 
 【6.18截止】[西北工业大学计算机学院2019 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/7670.htm)
+
