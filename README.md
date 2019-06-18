@@ -6,9 +6,9 @@
 
 ~~【报名截止】[清华大学软件学院2019年优秀大学生夏令营报名通知](http://www.thss.tsinghua.edu.cn/publish/soft/3649/2019/20190410165013261684356/20190410165013261684356_.html)~~
 
-【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)
+~~【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)~~
 
-【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
+~~【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)~~
 
 ~~【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)~~
 
@@ -21,7 +21,7 @@
 【6.22截止】[北京大学信息工程学院关于举办 “2019年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2019/anotice_0529/2236.html)
 
 ## 复旦大学
-【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=26873)
+~~【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=26873)~~
 
 ~~【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)~~
 
@@ -40,17 +40,17 @@
 
 ~~【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)~~
 
-【6.15截止】[2019年南京大学软件学院全国优秀大学生夏令营报名通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)
+~~【6.15截止】[2019年南京大学软件学院全国优秀大学生夏令营报名通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)~~
 
 ## 中国科学技术大学
-【6.15截止】[第六届（2019年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=677)
+~~【6.15截止】[第六届（2019年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=677)~~
 
-【6.15截止】[2019年第六届计算机科学暑期夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=641)
+~~【6.15截止】[2019年第六届计算机科学暑期夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=641)~~
 
-【6.15截止】[2019年第二届大学生大数据夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=650)
+~~【6.15截止】[2019年第二届大学生大数据夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=650)~~
 
 ## 中科院研究所
-【6.16截止】[2019年全国大学生“软件与网络”夏令营（**软件所**）](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html)
+~~【6.16截止】[2019年全国大学生“软件与网络”夏令营（**软件所**）](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html)~~
 
 【6.30截止】[2019年**沈阳计算所**大学生暑期夏令营通知](http://www.sict.cas.cn/yjsjy/zs/201904/t20190423_4547892.html)
 
@@ -58,14 +58,14 @@
 
 【6.25截止】[中国科学院**深圳先进技术研究院**2019年大学生夏令营](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201904/t20190426_5282013.html)
 
-【6.16截止】[2019年“计算未来”全国大学生计算技术暑期研修班（**计算所**）](http://www.ict.cas.cn/shye/tzgg/201905/t20190523_5301249.html?tdsourcetag=s_pctim_aiomsg)
+~~【6.16截止】[2019年“计算未来”全国大学生计算技术暑期研修班（**计算所**）](http://www.ict.cas.cn/shye/tzgg/201905/t20190523_5301249.html?tdsourcetag=s_pctim_aiomsg)~~
 
-【6.16截止】[中国科学院信息工程研究所2019年“网络空间安全技术”全国优秀大学生夏令营报名通知（**信工所**）](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/201905/t20190524_5301824.html)
+~~【6.16截止】[中国科学院信息工程研究所2019年“网络空间安全技术”全国优秀大学生夏令营报名通知（**信工所**）](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/201905/t20190524_5301824.html)~~
 
 ## 华东师范大学
 ~~【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)~~
 
-【6.15截止】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)
+~~【6.15截止】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)~~
 
 ~~【6.10截止】[第五届高可信软件工程优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019032220159046143733)~~
 
@@ -73,11 +73,11 @@
 ~~【报名截止】[2019年香港中文大学（深圳）数据科学博士夏令营](http://idda.cuhk.edu.cn/zh-hans/content/9835)~~
 
 ## 浙江大学
-【6.16截止】[浙江大学网络空间安全研究中心2019年物联网夏令营](http://u9216776.viewer.maka.im/pcviewer/41E3JO81W9216776)
+~~【6.16截止】[浙江大学网络空间安全研究中心2019年物联网夏令营](http://u9216776.viewer.maka.im/pcviewer/41E3JO81W9216776)~~
 
-【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)
+~~【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)~~
 
-【6.16截止】[浙江大学软件学院2019年优秀大学生夏令营通知](http://www.cst.zju.edu.cn/index.php?c=Index&a=detail&catid=16&id=4644)
+~~【6.16截止】[浙江大学软件学院2019年优秀大学生夏令营通知](http://www.cst.zju.edu.cn/index.php?c=Index&a=detail&catid=16&id=4644)~~
 
 ## 上海科技大学
 【6.30截止】[上海科技大学信息科学与技术学院2019年优秀大学生夏令营活动通知](http://sist.shanghaitech.edu.cn/2019/0430/c2825a42050/page.htm)
@@ -108,22 +108,22 @@
 ## 哈尔滨工业大学
 【6.24截止】[2020年优秀硕士生源选拔（含直博生）暑期夏令营招募通知](http://yzb.hit.edu.cn/2019/0524/c8822a224945/page.htm)
 
-【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
+~~【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)~~
 
 ## 南开大学
 ~~【报名截止】[2019年南开大学“活力软件”优秀大学生夏令营](http://cs.nankai.edu.cn/index.php/zh/2016-12-05-17-40-18/1781-2019-24)~~
 
 ~~【6.2截止】[南开大学人工智能学院2019年全国优秀大学生夏令营](http://ai.nankai.edu.cn/articleDetail/init.action?seqId=6815e46dc5e74427960d5b900d4e57a4&channelId=c_0107&returnFlag=returnList)~~
 
-【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)
+~~【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)~~
 
-南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）
+~~南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）~~
 
 ## 北京理工大学
 ~~【6.2截止】[2019年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/148643.htm?from=timeline&isappinstalled=0&tdsourcetag=s_pctim_aiomsg)~~
 
 ## 武汉大学
-【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)
+~~【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)~~
 
 【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
 
@@ -134,7 +134,7 @@
 【6.24截止】[电子科技大学2019年“计算机（网安）”全国优秀大学生暑期夏令营通知](http://www.ccse.uestc.edu.cn/view?type=55&id=19540)
 
 ## 中南大学
-【6.15截止】[中南大学计算机学院2019年全国优秀大学生暑期夏令营通知](http://cse.csu.edu.cn/info/1003/6598.htm)
+~~【6.15截止】[中南大学计算机学院2019年全国优秀大学生暑期夏令营通知](http://cse.csu.edu.cn/info/1003/6598.htm)~~
 
 ## 华中科技大学
 【6.20截止】[关于举办“2019年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://www.cs.hust.edu.cn/info/1102/2331.htm)
@@ -144,7 +144,7 @@
 
 ## 厦门大学
 
-【6.15截止】[厦门大学信息学院2019年全国优秀大学生暑期夏令营招生简章](https://information.xmu.edu.cn/info/1050/7991.htm)
+~~【6.15截止】[厦门大学信息学院2019年全国优秀大学生暑期夏令营招生简章](https://information.xmu.edu.cn/info/1050/7991.htm)~~
 
 ## 大连理工大学
 
