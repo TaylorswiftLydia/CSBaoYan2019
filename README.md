@@ -90,15 +90,15 @@
 ## 中国人民大学
 ~~【6.1截止】[中国人民大学信息学院2019年优秀大学生夏令营招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=1955)~~
 
-【6.20截止】[高瓴人工智能学院2019年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/xwgg/gg/b455ce0683a74a2397475ab5c860f333.htm?from=timeline&isappinstalled=0)
+~~【6.20截止】[高瓴人工智能学院2019年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/xwgg/gg/b455ce0683a74a2397475ab5c860f333.htm?from=timeline&isappinstalled=0)~~
 
 ## 上海交通大学
-【6.20截止】[上海交通大学电子信息与电气工程学院2020级研究生优秀生源选拔通知](http://www.seiee.sjtu.edu.cn/seiee/info/15084.htm)
+~~【6.20截止】[上海交通大学电子信息与电气工程学院2020级研究生优秀生源选拔通知](http://www.seiee.sjtu.edu.cn/seiee/info/15084.htm)~~
 * ~~直博（成都、武汉）报名时间：5.10 - 5.20~~
-* 直博（上海、西安）报名时间：5.10 - 6.3
-* 直硕报名时间：5.10 - 6.20
+* ~~直博（上海、西安）报名时间：5.10 - 6.3~~
+* ~~直硕报名时间：5.10 - 6.20~~
 
-【6.20截止】[上海交通大学“2019软件学院优才夏令营”](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=13182)
+~~【6.20截止】[上海交通大学“2019软件学院优才夏令营”](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=13182)~~
 
 【6.30截止】[上海交通大学密西根学院夏令营](umji.sjtu.edu.cn/cn/news/2019-0507-0932/)
 
@@ -125,7 +125,7 @@
 ## 武汉大学
 ~~【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)~~
 
-【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
+~~【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)~~
 
 ## 国防科学技术大学
 【7.20截止】[关于开展2019年优秀大学生夏令营活动的通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=414)
@@ -137,7 +137,7 @@
 ~~【6.15截止】[中南大学计算机学院2019年全国优秀大学生暑期夏令营通知](http://cse.csu.edu.cn/info/1003/6598.htm)~~
 
 ## 华中科技大学
-【6.20截止】[关于举办“2019年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://www.cs.hust.edu.cn/info/1102/2331.htm)
+~~【6.20截止】[关于举办“2019年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://www.cs.hust.edu.cn/info/1102/2331.htm)~~
 
 ## 兰州大学
 [兰州大学信息科学与工程学院2019年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/lzupage/2019/05/23/N20190523152117.html)
@@ -152,7 +152,7 @@
 
 ## 西北工业大学
 
-【6.18截止】[西北工业大学计算机学院2019 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/7670.htm)
+~~【6.18截止】[西北工业大学计算机学院2019 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/7670.htm)~~
 
 ## 华南理工大学
 【6.25截止】[计算机科学与工程学院2019年优秀大学生暑期夏令营招募通知](https://admission.scut.edu.cn/2019/0612/c17700a324758/page.htm)
