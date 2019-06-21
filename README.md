@@ -159,3 +159,6 @@
 
 ## 北京邮电大学
 【6.28截止】[北京邮电大学网络技术研究院2019年优秀大学生夏令营活动通知](https://int.bupt.edu.cn/content/content.php?p=1_3_320)
+
+## 东北大学
+【6.25截止】[关于举办东北大学计算机科学与工程学院2019年暑期学术夏令营的通知](http://www.cse.neu.edu.cn/scse/a/tongzhigonggao/2019/0612/1698.html)
